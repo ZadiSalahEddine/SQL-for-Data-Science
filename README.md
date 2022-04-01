@@ -1,7 +1,7 @@
 # SQL-for-Data-Science
 how to utilize SQL in your Data Science journey -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*::::
 
-data science is not all about building a model and thats it it goes beyond that, taking steps forward with prior knowledge
+data science is not all about building a model and thats it, it goes beyond that, taking steps forward with prior knowledge
 will protect you from steping backward and can save you time.
 in a data science project you will find your self revolving in 7 crucial phases:
 
@@ -35,7 +35,7 @@ to make new predictions, it doesn't stop here....
 7-Monitoring: Here you focus on tracking your model(s) and see how they behave.
 Areas of focus include: model drift, model performance, model outliers and data quality. monitoring is a subset of ML observability. While monitoring consists of setting up alerts on key model performance metrics such as accuracy, or drift, model observability implies a higher objective of getting to the bottom of any regressions in performance or anomalous behavior
 
-6.1-there is another use case when the model is emdbedded in a toolkit to just predict or detect.
+6.1-there is another use case when the model is embedded in a toolkit just to predict or detect.
 example: (face recognition kit)
 
                    ###########https://www.facebook.com/zadi.salah ##########
